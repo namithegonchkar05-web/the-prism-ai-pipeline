@@ -19,7 +19,6 @@ Product teams often drown in unstructured user feedback (support tickets, survey
 * **Structured Storage:** Converts messy text into a clean Notion Database for roadmap planning.
 
 ## 🏗️ Architecture
-![Architecture Diagram](assets/architecture_diagram.png)
 
 ### The Logic Flow:
 1.  **Ingest:** Webhook triggers on new Tally form submission.
