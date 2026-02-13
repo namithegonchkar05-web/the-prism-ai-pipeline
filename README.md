@@ -41,5 +41,4 @@ Product teams often drown in unstructured user feedback (support tickets, survey
 I used **Few-Shot Prompting** (implicitly via system instructions) to ensure strict JSON output.
 * *See `docs/PRD.md` for full prompt engineering details.*
 
----
-*Created by Aditya E Gonchkar*
+
