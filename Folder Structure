@@ -1,0 +1,18 @@
+the-prism-ai-pipeline/
+│
+├── assets/                  # Images for your Readme
+│   ├── architecture_diagram.png  (Your n8n screenshot with sticky notes)
+│   ├── notion_dashboard.png      (Screenshot of your database)
+│   └── tally_form.png            (Screenshot of the input form)
+│
+├── docs/                    # The "PM" Section (Crucial!)
+│   └── PRD.md               (Product Requirements Document)
+│
+├── scripts/                 # Your custom code
+│   └── gemini_json_parser.js     (The code from your Code Node)
+│
+├── workflows/               # The actual automation file
+│   └── main_workflow.json   (Exported from n8n)
+│
+├── .gitignore               (Standard git ignore file)
+└── README.md                (The "Landing Page" of your project)
